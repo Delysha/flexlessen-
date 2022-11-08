@@ -1,0 +1,5 @@
+print("hello i am delysha")
+print("what is your name? bitch")
+naam = input()
+print ("hello " + naam)
+print ("nice to meet u BESTIEEE")
